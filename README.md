@@ -1,2 +1,5 @@
-# Design-Pattern
-23种设计模式的示例代码与学习
+# Design Pattern 
+
+###### 23种设计模式的代码设计
+
+
