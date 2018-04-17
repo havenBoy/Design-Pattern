@@ -1,4 +1,4 @@
-package com.xiong.pattern;
+package com.xiong.pattern.single;
 /***
  * 单例模式的不同实现
  * 因程序需要，有时我们只需要某个类同时保留一个对象，不希望有更多对象，此时，我们则应考虑单例模式的设计。

@@ -1,4 +1,4 @@
-package com.xiong.pattern.factory;
+package com.xiong.pattern.factory.simplefactory;
 /**
  * @author 作者:XiaoXiong
  * @version 创建时间：2018年4月16日 下午9:04:54
